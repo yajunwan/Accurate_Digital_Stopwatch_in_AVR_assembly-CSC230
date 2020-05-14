@@ -1,9 +1,9 @@
-; a3_template.asm
 ; CSC 230 - Summer 2018
 ; 
-; Starter code for A3.
+; Starter code for A3 before
+; Main Program section
+; is from B. Bird (professor)- 07/01/2018
 ;
-; B. Bird - 07/01/2018
 
 .include "lcd_function_defs.inc"
 
